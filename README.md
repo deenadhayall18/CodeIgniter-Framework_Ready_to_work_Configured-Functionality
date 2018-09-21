@@ -43,7 +43,7 @@ The following items can be loaded automatically:
 $autoload['libraries'] = array('database','session','form_validation','user_agent','pagination');
 
  $autoload['helper'] = array('url', 'file','form','cookie','security');
- 
- ## Sample_model.php
+
+ Sample_model.php
  Codeiginter commonly used select, gte,update,delete query sample structures 
  
