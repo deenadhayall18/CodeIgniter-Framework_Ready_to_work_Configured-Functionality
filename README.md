@@ -46,4 +46,12 @@ $autoload['libraries'] = array('database','session','form_validation','user_agen
 
  Sample_model.php
  Codeiginter commonly used select, gte,update,delete query sample structures 
- 
+ ```
+
+###  REST_API Controller
+
+	A fully RESTful server implementation for CodeIgniter using one library, one config file and one controller.
+
+	### Configuration
+
+You can overwrite all default configurations by creating a rest.php file in your config folder with your configs. All given configurations will overwrite the default ones.
